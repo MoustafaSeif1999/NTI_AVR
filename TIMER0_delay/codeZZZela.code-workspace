@@ -1,0 +1,65 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/Moustafa/Desktop/codeZZZela"
+		},
+		{
+			"path": "../1-AVR_Drivers"
+		},
+		{
+			"path": "../ADC_APP"
+		},
+		{
+			"path": "../ADC_AutoTrigger"
+		},
+		{
+			"path": "../ADC_calipration"
+		},
+		{
+			"path": "../counter_APP"
+		},
+		{
+			"path": "../DIO_APP"
+		},
+		{
+			"path": "../EXTI_APP"
+		},
+		{
+			"path": "../keypad_APP"
+		},
+		{
+			"path": "../LCD_APP"
+		},
+		{
+			"path": "../LCD_switches_APP"
+		},
+		{
+			"path": "../LCD_ZIG_ZAG_APP"
+		},
+		{
+			"path": "../RemoteSystemsTempFiles"
+		},
+		{
+			"path": "../reverse_counter_APP"
+		},
+		{
+			"path": "../SEVSEG_APP"
+		},
+		{
+			"path": "../switches_APP"
+		},
+		{
+			"path": "../traffic_light_APP"
+		},
+		{
+			"path": "../EXTI_LCD_APP"
+		},
+		{
+			"path": "../keypad_7seg_APP"
+		},
+		{
+			"path": "C:/Users/Moustafa/Desktop/New folder"
+		}
+	],
+	"settings": {}
+}
